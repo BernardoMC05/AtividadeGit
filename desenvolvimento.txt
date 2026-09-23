@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 realizando a adição de palavras no txt para testar o GIT
+=======
+aqui estamos adicionando uma linha no desenvolvimento.
+>>>>>>> desenvolvimento

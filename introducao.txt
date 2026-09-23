@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 realizando a adição de palavras no txt
+=======
+aqui estamos adicionando uma linha na introdução.
+>>>>>>> desenvolvimento
